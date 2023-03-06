@@ -5,3 +5,7 @@
 
 [https://qrist0ph.github.io/qriscdn/brands/honigbaer/honigbaer_text.png](https://qrist0ph.github.io/qriscdn/brands/honigbaer/honigbaer_text.png)
 
+# FNSKUs
+
+[https://qrist0ph.github.io/qriscdn/d4f_for_suppliers/fnskus/B09M475L3R.pdf](https://qrist0ph.github.io/qriscdn/d4f_for_suppliers/fnskus/B09M475L3R.pdf)    
+
